@@ -1,3 +1,14 @@
+## Welcome!
+
+This is the assignment's delivery from munhozmib.
+All the R scripts have a similar beginning, in which it is explained how to load and filter the dataset. 
+Then we procceed with building the graphs.
+To finish each plot, the script automatically saves it into a PNG file. 
+
+You are advised that some of the plots may contain different changes.
+
+Below you have the comparison of my plots and the plots of the exercise. 
+
 ## Introduction
 
 This assignment uses data from
