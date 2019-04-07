@@ -30,7 +30,7 @@ Original plot:
 ### Plot 3:
 My plot:
 
-![plot_1](figure/plot_1.png)
+![plot_1](figure/plot_3.png)
 
 Original plot:
 
@@ -39,7 +39,7 @@ Original plot:
 ### Plot 4:
 My plot:
 
-![plot_1](figure/plot_1.png)
+![plot_1](figure/plot_4.png)
 
 Original plot:
 
