@@ -9,6 +9,11 @@ You are advised that some of the plots may contain different changes.
 
 Below you have the comparison of my plots and the plots of the exercise. 
 
+### Plot 1:
+My plot:
+![plot_1](figure/plot_1.png)
+Original plot:
+![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
 ## Introduction
 
 This assignment uses data from
