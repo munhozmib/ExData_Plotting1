@@ -21,7 +21,7 @@ Original plot:
 ### Plot 2:
 My plot:
 
-![plot_1](figure/plot_1.png)
+![plot_2](figure/plot_2.png)
 
 Original plot:
 
